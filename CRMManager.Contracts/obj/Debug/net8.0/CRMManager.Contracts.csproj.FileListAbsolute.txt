@@ -1,0 +1,11 @@
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\bin\Debug\net8.0\CRMManager.Contracts.deps.json
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\bin\Debug\net8.0\CRMManager.Contracts.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\bin\Debug\net8.0\CRMManager.Contracts.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.AssemblyInfoInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.AssemblyInfo.cs
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.csproj.CoreCompileInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\refint\CRMManager.Contracts.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\CRMManager.Contracts.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Contracts\obj\Debug\net8.0\ref\CRMManager.Contracts.dll

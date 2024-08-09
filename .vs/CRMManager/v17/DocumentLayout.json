@@ -1,0 +1,497 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|solutionrelative:crmmanager.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\querries\\getbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\querries\\getbyid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|solutionrelative:crmmanager.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\common\\mapping\\customermappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\common\\mapping\\customermappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B598CD2-E967-4BF4-A51A-92978E46C474}|CRMManager.Api\\CRMManager.Api.csproj|solutionrelative:crmmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\querries\\getbyid\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\querries\\getbyid\\getcustomerbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\querries\\listall\\listallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\querries\\listall\\listallcustomersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\commands\\create\\createcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\commands\\delete\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\commands\\delete\\deletecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231DF027-620D-4130-86FF-4F33B60BA9A4}|CRMManager.Contracts\\CRMManager.Contracts.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.contracts\\requests\\customer\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231DF027-620D-4130-86FF-4F33B60BA9A4}|CRMManager.Contracts\\CRMManager.Contracts.csproj|solutionrelative:crmmanager.contracts\\requests\\customer\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\commands\\update\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\commands\\update\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\commands\\update\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\commands\\update\\updatecustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231DF027-620D-4130-86FF-4F33B60BA9A4}|CRMManager.Contracts\\CRMManager.Contracts.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.contracts\\requests\\customer\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231DF027-620D-4130-86FF-4F33B60BA9A4}|CRMManager.Contracts\\CRMManager.Contracts.csproj|solutionrelative:crmmanager.contracts\\requests\\customer\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\aggregates\\customeraggregate\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\aggregates\\customeraggregate\\repository\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\aggregates\\customeraggregate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\aggregates\\customeraggregate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\querries\\listall\\listallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\querries\\listall\\listallcustomersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\features\\customers\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\features\\customers\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA593F51-3D93-4AC3-BD8E-8457D8EA1980}|CRMManager.Application\\CRMManager.Application.csproj|solutionrelative:crmmanager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\migrations\\20240809063015_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\migrations\\20240809063015_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\persistence\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\crmmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\crmmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.infrastructure\\persistence\\crmmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC920BD4-95C2-4D6A-9A1F-F7F9BDCF4507}|CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj|solutionrelative:crmmanager.infrastructure\\persistence\\crmmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\common\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\common\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\aggregates\\customeraggregate\\valueobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\aggregates\\customeraggregate\\valueobjects\\customerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\common\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\common\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|d:\\01. uda\\03. junior\\aspdotnet\\crmmanager\\crmmanager.domain\\crmmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D37087D-54A3-4C67-B1DF-BCB7C7063BC7}|CRMManager.Domain\\CRMManager.Domain.csproj|solutionrelative:crmmanager.domain\\crmmanager.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRMManager.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRMManager.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T08:20:58.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCustomerByIdQuery.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQuery.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQuery.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQuery.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:33:54.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CRMManager.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CRMManager.Api\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA8wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:17:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerMappingConfig.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Common\\Mapping\\CustomerMappingConfig.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Common\\Mapping\\CustomerMappingConfig.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Common\\Mapping\\CustomerMappingConfig.cs",
+              "RelativeToolTip": "CRMManager.Application\\Common\\Mapping\\CustomerMappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:01:43.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CRMManager.Api\\Program.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Api\\Program.cs",
+              "RelativeToolTip": "CRMManager.Api\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:16:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCustomerByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQueryHandler.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQueryHandler.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Querries\\GetById\\GetCustomerByIdQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:34:50.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CRMManager.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:43:14.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListAllCustomersQueryHandler.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQueryHandler.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQueryHandler.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQueryHandler.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQueryHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:00:29.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:54:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteCustomerCommand.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Delete\\DeleteCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Commands\\Delete\\DeleteCustomerCommand.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Delete\\DeleteCustomerCommand.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Commands\\Delete\\DeleteCustomerCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:22:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCustomerRequest.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Contracts\\Requests\\Customer\\UpdateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "CRMManager.Contracts\\Requests\\Customer\\UpdateCustomerRequest.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Contracts\\Requests\\Customer\\UpdateCustomerRequest.cs",
+              "RelativeToolTip": "CRMManager.Contracts\\Requests\\Customer\\UpdateCustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:16:57.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:05:55.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCustomerCommandHandler.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Commands\\Update\\UpdateCustomerCommandHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:07:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Contracts\\Requests\\Customer\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "CRMManager.Contracts\\Requests\\Customer\\CreateCustomerRequest.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Contracts\\Requests\\Customer\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "CRMManager.Contracts\\Requests\\Customer\\CreateCustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:45:17.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\Repository\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\Repository\\ICustomerRepository.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\Repository\\ICustomerRepository.cs",
+              "RelativeToolTip": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\Repository\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:23:04.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\Customer.cs",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\Customer.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\Customer.cs",
+              "RelativeToolTip": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:20:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:50:30.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListAllCustomersQuery.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQuery.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQuery.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQuery.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Querries\\ListAll\\ListAllCustomersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:59:19.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\Features\\Customers\\Dtos\\CustomerDto.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\Features\\Customers\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "CRMManager.Application\\Features\\Customers\\Dtos\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:57:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CRMManager.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CRMManager.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:05:26.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240809063015_Init.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Migrations\\20240809063015_Init.cs",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\Migrations\\20240809063015_Init.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Migrations\\20240809063015_Init.cs",
+              "RelativeToolTip": "CRMManager.Infrastructure\\Migrations\\20240809063015_Init.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:30:16.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CRMManager.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:38:34.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "CRMManager.Infrastructure\\Persistence\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:33:36.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CRMManager.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj",
+              "RelativeToolTip": "CRMManager.Infrastructure\\CRMManager.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T05:22:04.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CRMManagerContext.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\CRMManagerContext.cs",
+              "RelativeDocumentMoniker": "CRMManager.Infrastructure\\Persistence\\CRMManagerContext.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Infrastructure\\Persistence\\CRMManagerContext.cs",
+              "RelativeToolTip": "CRMManager.Infrastructure\\Persistence\\CRMManagerContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBQAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:27:15.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Common\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\Common\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Common\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "CRMManager.Domain\\Common\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T05:19:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CustomerId.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\ValueObjects\\CustomerId.cs",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\ValueObjects\\CustomerId.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Aggregates\\CustomerAggregate\\ValueObjects\\CustomerId.cs",
+              "RelativeToolTip": "CRMManager.Domain\\Aggregates\\CustomerAggregate\\ValueObjects\\CustomerId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:25:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Common\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\Common\\Models\\Entity.cs",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\Common\\Models\\Entity.cs",
+              "RelativeToolTip": "CRMManager.Domain\\Common\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T04:23:15.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CRMManager.Domain.csproj",
+              "DocumentMoniker": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\CRMManager.Domain.csproj",
+              "RelativeDocumentMoniker": "CRMManager.Domain\\CRMManager.Domain.csproj",
+              "ToolTip": "D:\\01. UDA\\03. Junior\\ASPDotNet\\CRMManager\\CRMManager.Domain\\CRMManager.Domain.csproj",
+              "RelativeToolTip": "CRMManager.Domain\\CRMManager.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T04:20:24.201Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

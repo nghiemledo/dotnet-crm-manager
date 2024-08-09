@@ -1,0 +1,15 @@
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\bin\Debug\net8.0\CRMManager.Application.deps.json
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\bin\Debug\net8.0\CRMManager.Application.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\bin\Debug\net8.0\CRMManager.Application.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\bin\Debug\net8.0\CRMManager.Domain.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\bin\Debug\net8.0\CRMManager.Domain.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.csproj.AssemblyReference.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.AssemblyInfoInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.AssemblyInfo.cs
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.csproj.CoreCompileInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManag.B8269DA0.Up2Date
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\refint\CRMManager.Application.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\CRMManager.Application.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Application\obj\Debug\net8.0\ref\CRMManager.Application.dll

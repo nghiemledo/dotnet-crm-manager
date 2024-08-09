@@ -1,0 +1,11 @@
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\bin\Debug\net8.0\CRMManager.Domain.deps.json
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\bin\Debug\net8.0\CRMManager.Domain.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\bin\Debug\net8.0\CRMManager.Domain.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.AssemblyInfoInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.AssemblyInfo.cs
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.csproj.CoreCompileInputs.cache
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\refint\CRMManager.Domain.dll
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\CRMManager.Domain.pdb
+D:\01. UDA\03. Junior\ASPDotNet\CRMManager\CRMManager.Domain\obj\Debug\net8.0\ref\CRMManager.Domain.dll
